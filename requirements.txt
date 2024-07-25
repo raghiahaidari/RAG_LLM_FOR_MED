@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_chroma
+langchainhub
+python-dotenv
+pypdf
+faiss-cpu
